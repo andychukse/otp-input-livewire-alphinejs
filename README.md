@@ -1,7 +1,8 @@
-# otp-input-livewire-alphinejs
-Create OTP Input with Resend CountDown Timer in Livewire using Alphinejs and TailwindCss
+# Create OTP Input with Resend CountDown Timer in Livewire using Alphinejs and TailwindCSS
 
 If you're working with Laravel Livewire and need to create an OTP Input. Here is how to create a OTP input with a count down timer that has a resend button using Alphine.js and TailwindCss.
+
+`Note: The code depends on Tailwind CSS, Laravel Livewire and Alphinejs. You must include them in your project for it to work`
 
 #### Design the Input Field
 The code below creates a single input field for entering a single number. The number of fields depends on the length of the OTP code. The next part will show you how to display the number of input as required.
